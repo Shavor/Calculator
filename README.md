@@ -1,2 +1,2 @@
 # Calculator
-project: shavor.github.io/Calculator/
+project: https://shavor.github.io/Calculator/
